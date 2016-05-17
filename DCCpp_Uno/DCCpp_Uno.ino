@@ -1,5 +1,5 @@
 /**********************************************************************
-
+  Multi-serial version
 DCC++ BASE STATION
 COPYRIGHT (c) 2013-2016 Gregg E. Berman
 
